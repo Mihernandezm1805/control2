@@ -1,0 +1,81 @@
+h1 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;   
+}
+table {
+    padding: 30px;
+}
+.logo {
+    width: 40px;
+    margin-right: 10px;
+}
+.d-flex{
+    margin-left: 500px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.tabla {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh; 
+}
+.center {
+    text-align: center;
+
+}
+.ficha_dis{
+    color: rgb(34, 150, 34);
+    font-family:Arial, Helvetica, sans-serif;
+}
+.tamaño{
+    font-size: 120%;
+}
+.index_disponible{
+    color: blue;
+    font-weight: bolder;
+}
+.index_subscrito {
+    color: green;
+    font-size: 20px;
+}
+.ficha_descripcion{
+    color: dimgray;
+    font-size: 20px;
+}
+.titulo{
+    font-size: 30px;
+    color: black;
+    font-weight: bolder;
+}
+.registro_foto{
+    height: 200px;
+}
+.roll{
+    display: flex;
+  align-items: center;
+}
+.form-label {
+    margin-right: 40px;
+}
+#boleta_tabla_estados td {
+    padding-right: 50px;
+}
+#boleta_tabla_estados {
+    float: right;
+}
+.botones{
+    float: right;
+    padding-right: 90px;
+}
+.verdetalle{
+    color: brown;
+}
+.foto_perfil{
+    height: 50px;
+}
